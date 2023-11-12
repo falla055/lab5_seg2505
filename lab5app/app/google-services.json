@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "873889595804",
+    "firebase_url": "https://emmazon-8cf1f-default-rtdb.firebaseio.com",
+    "project_id": "emmazon-8cf1f",
+    "storage_bucket": "emmazon-8cf1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873889595804:android:18e490ba64eab9e2fb4859",
+        "android_client_info": {
+          "package_name": "com.example.emmazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB90WwPNWCwgqNCIMYRbh7-JoTVmN_2cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
